@@ -1,0 +1,50 @@
+﻿Computer Basics 
+Assignment Answers
+Ans no. 1: A computer is an electronic device that stores and processes data,often in binary form,in accordance with commands from a variable programme.
+
+
+Ans no. 2: RAM is an electronic memory that allows the CPU(central processing unit) to temporarily store and access data.unlike permanent storage(such as Hard drives),RAM is volatile,meaning it retains data only while the computer is powered on.when the computer shuts down,RAM is erased.
+            RAM serves as the working memory for the computer.It holds data that the CPU actively works with during tasks.when you open an application,load files or run programs,the data is temporarily stored in RAM for quick access.
+
+
+Ans no. 3: Data in a computer can be stored in several different types of storage devices,each with its own characteristics and purposes,these are :
+1. Random Access Memory(RAM)
+2. Hard Disk Drive(HDD)
+3. Solid-State Drive(SSD)
+4. External Storage Devices
+5. Cloud Storage
+6. Optical Discs
+7. Network-Attached Storage(NAS)
+
+
+
+
+
+
+Ans no. 4: The input device used to type texts and numbers on a document in a computer system is called a keyboard.keyboards are one of the primary input devices for computers and are essential for entering texts,numbers and commands.They typically consist of a set of keys arranged in a specific layout,including letters,numbers,symbols and special function keys.when you press a key on the keyboard,it sends a signal to the computer,allowing you to input characters into a document or interact with software applications.keyboard comes in various designs,including traditional wired keyboards,wireless keyboards,ergonomic keyboards and virtual keyboards on touchscreen devices.  
+
+
+Ans no. 5: Output devices are peripherals that provide information or results from a computer to a user or another system.They convey processed data in a human-readable or machine-understandable form.Here are some common output devices used in computer systems:
+1. Monitor
+2. Printer
+3. Speakers
+4. Headphones or Headset
+5. Projector
+6. Plotter
+7. Braille Display
+8. Touchscreen  
+
+
+Ans no. 6: The input device that enables a user to move the cursor or pointer on a screen is commonly known as a computer mouse. 
+
+
+Ans no. 7: The language that is directly understood by a computer without the need for a translation program is known as machine language. This language operates at the lowest level and uses binary notation, represented as a string of 1s and 0s. Every computer’s hardware architecture is designed to interpret and execute instructions in machine language.It is considered as the oldest computer language.
+
+
+Ans no. 8: Input devices are essential components that allow users to interact with and control computers. They provide data and control signals to the computer or information appliance. Here are some common input devices:
+1. Keyboard
+2. Mouse
+3. Scanner
+4. Camera
+5. Joystick
+6. Microphone
